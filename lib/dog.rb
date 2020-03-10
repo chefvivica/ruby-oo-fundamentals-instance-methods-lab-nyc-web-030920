@@ -1,5 +1,5 @@
 class Dog
   def bark
-    puts "woooooof"
+    puts "Woof!"
   end 
 end 
